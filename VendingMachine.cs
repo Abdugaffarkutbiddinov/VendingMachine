@@ -20,13 +20,11 @@ public class VendingMachine
         uint delta = 5;
         var changeWithPercent = _percent == 0 ? null : ChangeWithPercent();
         var changeStandard = ChangeStandard();
-        if (changeWithPercent != null)
+        if (changeWithPercent == null) return changeStandard;
+        if (Math.Abs(_percent - changeWithPercent.Item4) <= delta)
         {
-            if (Math.Abs(_percent - changeWithPercent.Item4) <= delta)
-            {
-                return new Tuple<uint, uint, uint>(changeWithPercent.Item1, changeWithPercent.Item2,
-                    changeWithPercent.Item3);
-            }
+            return new Tuple<uint, uint, uint>(changeWithPercent.Item1, changeWithPercent.Item2,
+                changeWithPercent.Item3);
         }
 
         return changeStandard;
