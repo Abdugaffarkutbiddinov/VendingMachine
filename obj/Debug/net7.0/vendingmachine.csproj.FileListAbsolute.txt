@@ -1,0 +1,15 @@
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/bin/Debug/net7.0/vendingmachine
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/bin/Debug/net7.0/vendingmachine.deps.json
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/bin/Debug/net7.0/vendingmachine.runtimeconfig.json
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/bin/Debug/net7.0/vendingmachine.dll
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/bin/Debug/net7.0/vendingmachine.pdb
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.csproj.AssemblyReference.cache
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.AssemblyInfoInputs.cache
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.AssemblyInfo.cs
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.csproj.CoreCompileInputs.cache
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.dll
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/refint/vendingmachine.dll
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.pdb
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/vendingmachine.genruntimeconfig.cache
+/Users/admin/CSHProjects/vendingMachine/vendingmachine/obj/Debug/net7.0/ref/vendingmachine.dll
